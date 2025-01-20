@@ -18,11 +18,6 @@ I'm an embedded systems and backend developer. Mostly I work with STM32 and nRF 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrektu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrektu"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/shrektu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrektu&&theme=tokyonight" alt="shrektu" />
-  </a>
-</p>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
