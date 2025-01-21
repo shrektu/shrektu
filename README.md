@@ -10,7 +10,7 @@ I'm an embedded systems and backend developer. Mostly I work with STM32 and nRF 
 ------
 <h3 align="left">Activity:</h3>
 
-[![Sebastian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrektu&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrektu&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/shrektu">
@@ -31,7 +31,7 @@ I'm an embedded systems and backend developer. Mostly I work with STM32 and nRF 
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=clion,eclipse,pycharm,vscode,vim"/></td>
     </tr>
     <tr>
