@@ -5,7 +5,7 @@
 I'm an embedded systems and backend developer. Mostly I work with STM32 and nRF based systems. I also have experience with AVR and ESP32. For Backend development I use Python and FastAPI framework. As a hobby, I'm a gamer and FPV drone pilot. 
 
 
-  - 🔭 I’m currently working on wireless IOT solutions and other embedded-related side projects.
+  - 🔭 I’m currently working on wireless IOT solutions and other side projects related to embedded systems.
     
 ------
 <h3 align="left">Activity:</h3>
