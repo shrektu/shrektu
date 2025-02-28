@@ -32,7 +32,7 @@ I'm an embedded systems and backend developer. Mostly I develop firmware for STM
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=clion,eclipse,pycharm,vscode,vim"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,clion,eclipse,vim"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
