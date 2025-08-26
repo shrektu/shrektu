@@ -2,7 +2,11 @@
 
 ### Hello, I'm Sebastian
 
-I'm an embedded systems and backend developer. Mostly I develop firmware for STM32 and nRF53 based systems but I also have experience with AVR and ESP32. For Backend development I use Python and FastAPI framework. As a hobby, I'm a gamer and FPV drone pilot. 
+I'm an embedded systems and backend developer. Mostly I develop firmware for STM32 and nRF platforms but I also have experience with AVR and ESP32. For Backend development I use Python.
+My hobbies:
+🏋🏽Hitting the gym
+🎮Gaming
+🚁FPV drones
 
 
   - 🔭 I’m currently working on wireless IOT solutions and other side projects related to embedded systems.
