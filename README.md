@@ -2,14 +2,12 @@
 
 ### Hello, I'm Sebastian
 
-I'm an embedded systems and backend developer. Mostly I develop firmware for STM32 and nRF platforms but I also have experience with AVR and ESP32. For Backend development I use Python.
-My hobbies:
-🏋🏽Hitting the gym
-🎮Gaming
-🚁FPV drones
+#### I'm an embedded systems and backend developer. Mostly I develop firmware for STM32 and nRF platforms but I also have experience with AVR and ESP32. For Backend development I use Python. I’m currently working on wireless IOT solutions and other side projects related to embedded systems.<br />
+My hobbies:<br />
+🏋🏽Hitting the gym<br />
+🎮Gaming<br />
+🚁FPV drones<br /><br />
 
-
-  - 🔭 I’m currently working on wireless IOT solutions and other side projects related to embedded systems.
     
 ------
 <h3 align="left">Activity:</h3>
