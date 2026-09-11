@@ -1,47 +1,34 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# Sebastian Smolik
 
-### Hello, I'm Sebastian
+**Embedded systems & backend developer** · Kraków, Poland · remote-friendly
 
-#### I'm an embedded systems and backend developer. Mostly I develop firmware for STM32 and nRF platforms but I also have experience with AVR and ESP32. For Backend development I use Python. I’m currently working on wireless IOT solutions and other side projects related to embedded systems.<br />
-My hobbies:<br />
-🏋🏽Hitting the gym<br />
-🎮Gaming<br />
-🚁FPV drones<br /><br />
+I write firmware for STM32 and nRF microcontrollers (AVR and ESP32 along the way) and the Python services
+behind them. Right now I work on wireless IoT devices and I am finishing an MSc thesis on visual programming
+for industrial robots.
 
-    
-------
-<h3 align="left">Activity:</h3>
+## What I work with
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrektu&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Area | Stack |
+| --- | --- |
+| Microcontrollers | STM32, nRF, ESP32, AVR |
+| Firmware | C, C++, FreeRTOS, bare-metal and interrupt-driven designs, peripheral drivers (UART, SPI, I²C), wireless connectivity (Wi‑Fi, BLE), CMake |
+| Backend | Python, FastAPI, PostgreSQL, Alembic, Docker, Nginx |
+| Everyday tools | Git, CLion, VS Code, Postman, Raspberry Pi |
 
-<div align="center">
-  <a href="https://github.com/shrektu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrektu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrektu"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrektu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrektu"/>
-  </a>
-</div>
+## Selected projects
 
-------
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,py"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,clion,eclipse,vim"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=arduino,cmake,docker,fastapi,nginx,postman,qt,raspberrypi"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=apple,windows,arch,ubuntu"/></td>
-    </tr>
-</table>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [cnc-dispenser](https://github.com/shrektu/cnc-dispenser) | Multi-channel liquid dispenser firmware: stepper-driven dosing by volume, rotary encoder and OLED (u8g2) interface, endstops, RTC and a UART command protocol. Bare-metal C with a CMake/avr-gcc build. | C, AVR |
+| [robot-project](https://github.com/shrektu/robot-project) | Wi‑Fi controlled mobile robot: an ESP32 access point serves the control page and relays commands over UART to an ATmega328p that drives the motors (PWM), LCD and ultrasonic sensor. The AVR firmware is fully interrupt-driven. | C, ESP32, AVR |
+| EasyPCR *(private)* | Portable PCR instrument: control firmware on STM32F4 with FreeRTOS. | C, STM32, FreeRTOS |
+| Robotics Scratch *(MSc thesis, private)* | Browser-based visual programming for industrial robots: Blockly programs compiled to URScript, RAPID and KRL. FastAPI + PostgreSQL backend, React + TypeScript frontend, Docker deployment. | Python, TypeScript |
+
+## Activity
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrektu&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrektu&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+Off the keyboard: gym, FPV drones, games.
